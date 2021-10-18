@@ -1,12 +1,27 @@
-## Hi there 👋
+# FGES CYBER GAMES
 
-<!--
+The goal of this project is to create a "home made" laser game, in which multiple players will play to different game mode of laser games.
 
-**Here are some ideas to get you started:**
+___
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+**Languages :** C
+
+**Technos :** Arduino Nano 33 IOT
+
+**Author :** Anatole de Chauveron
+
+**Licence :** All rights reserved
+
+___
+
+## Summary
+
+### [Documentation](https://github.com/FGES-cyber-games/management)
+
+### [Embeded source code](https://github.com/FGES-cyber-games/equipement)
+
+### [Interface and server](https://github.com/FGES-cyber-games/interface)
+
+## Contact
+
+_To contact the owner of this project, please send an email to this address : **adechauveron@gmail.com**_
