@@ -1,4 +1,4 @@
-# FGES CYBER GAMES
+# [FGES CYBER GAMES](https://github.com/FGES-cyber-games)
 
 The goal of this project is to create a "home made" laser game, in which multiple players will play to different game mode of laser games.
 
